@@ -1,2 +1,0 @@
-# haproxyy
-debian 9
